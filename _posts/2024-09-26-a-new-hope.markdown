@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "A New Hope"
+date:   2024-09-26 00:16:03 -0400
+categories: update
+---
+It seems I get to have a fresh start. 
+
+After living the dream of making movies and getting my name in the credits at the end of a film, it all comes to a halt. For 3 years, I've had the best time of my life working on movies at a company where I met the most artistic, hardworking and wonderful people I've ever met in my life. I couldn't imagine getting a better start to this wild journey in the Visual Effects industry.
+
+Sadly, as a result of the past year of lack of work in the visual effects industry, I've now found myself looking for new opportunities. 
+
+I am in good spirits. It is allowing me to have the time to look into interests that I've neglected for so long. During my time in VFX, I was able to learn so much about how real magic happens at the end of a film, right before it premieres in the cinema. I was able to discover a new city, in a country I've only seen for a week a decade prior (I need to get back to visit Vancouver), tasted some of the best food I've ever had in my life, and met the most interesting people. I've even learned a little bit of a new language!
+
+During my time off, I've been exploring some new areas to take a break from debugging broken renders for a bit.
+
+I was able to catch up on some video games. It felt pretty good to escape for a bit while I rested after working for so long with little time off. Also was able to catch up on some much needed sleep!
+
+Lately I've been delving into the magical world of Houdini. I always wanted to dive deeper into this wonderful software, but was overwhelmed when I tried to look at the version we had at the studio with all the extra custom overhead they had.
+
+I've also been looking to learn Nuke a bit better. I did get to use this software to make dailies of course, but I never really got to do proper compositing with it. I can appreciate it a lot more now since having the time to study it. I'm interested mostly in learning to use the Nuke API more though.
+
+Next on my list is to learn Unreal. I have quite a bit of experience with Unity, but that was a while ago since I've touched it. However, I'm hoping that past experience will come in handy when learning the powerhouse that is Unreal!
+
+Also I have been strengthening up my coding skillset, as I've not got to use those skills very much in my last role. I realize how much I've missed coding.
+
+Now it's time to focus, which is part of the biggest reason I have been working on this long overdue website. I want to use this to regularly post interesting things I'm learning to share as well as it be a way to document my growth and also be able to focus on what I want to do.
+
+Hopefully I will land on my feet soon. I'm interested in being in a more technical space, but hopefully I can step away from render debugging for a bit (Unless you want to hire me to do that!). I plan to get to know Houdini much more, and get to use that in my next role. I really would like to work as a Technical Director in VFX, possibly doing more pipeline. If the opportunity to become an artist arises, I have a strong interest in working in FX since it is a mix of an technical and artistic role - however I think I would really like to work in the Games industry at some point to see if that is a good fit for me.
+
+No matter where I land, I'm sure it will be worth the adventure.
