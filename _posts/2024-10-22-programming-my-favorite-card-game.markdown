@@ -46,6 +46,8 @@ I don't really consider this project finished. Currently, the player plays all 4
 * Bots with logic will play the other cards.
 * Build a UI so its less reading for the user
 
+If you want to check out the project, [you can find it here](https://github.com/tincro/euchre)
+
 ### Final Thoughts
 Overall, I'm very happy with how the project came out and funny enough, I have a lot more appreciation for the design of this card game. There are still a few bugs but its in a very playable state at the moment and the amount of things I've learned along the way makes me very excited to build the next project. 
 
