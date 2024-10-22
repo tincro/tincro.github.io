@@ -38,6 +38,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-spaceship
 
 google_analytics: UA-NNNNNNNN-N
 
