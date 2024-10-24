@@ -9,6 +9,7 @@ Hello! I'm Austin, and I love making movies. I'm a technical director and I have
 My hobbies are gaming, cooking, and going to metal shows! 
 
 Below you'll find some projects that I've worked on:
+
 |              --                                                                               |                                             --                                              |
 | :---:                                                                                         | :---:                                                                                       |
 |   ![Mufasa: The Lion King poster](assets/img/demo_reel_mufasa_poster.jpg)                     |![Aquaman and the Lost Kingdom poster](assets/img/demo_reel_aquaman_lost_kingdom_poster.jpg) |
