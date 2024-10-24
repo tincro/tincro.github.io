@@ -4,7 +4,11 @@
 
 layout: home
 ---
+Hello! I'm Austin, and I love making movies. I'm a technical director and I have experience in Visual Effects helping on some pretty cool projects. My favorite thing about being a TD is every day is different. There is always interesting problems to solve, and I love a good puzzle! I find that building something that will make an artist's life easier extremely rewarding.
 
+My hobbies are gaming, cooking, and going to metal shows! 
+
+Below you'll find some projects that I've worked on:
 |              --                                                                               |                                             --                                              |
 | :---:                                                                                         | :---:                                                                                       |
 |   ![Mufasa: The Lion King poster](assets/img/demo_reel_mufasa_poster.jpg)                     |![Aquaman and the Lost Kingdom poster](assets/img/demo_reel_aquaman_lost_kingdom_poster.jpg) |
