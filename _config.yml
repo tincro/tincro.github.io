@@ -36,8 +36,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-spaceship
+  - jekyll-titles-from-headings
 
 google_analytics: UA-NNNNNNNN-N
+
+titles_from_headings:
+  enabled:      true
+  stript_title: true
+  collections:  true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
