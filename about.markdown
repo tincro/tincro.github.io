@@ -15,6 +15,8 @@ Such tasks include:
 - Render farm errors
 - Building tools and writing scripts for automating tasks
 
+***
+
 ## Resume 
 
 ### Experience
@@ -43,8 +45,7 @@ Such tasks include:
 - Investigate and debug rendering artifacts from final production renders
 - Optimize scene on shot or sequence level to better fit memory budget requirements
 - Monitor render farm for any long standing tasks that may require investigation
-
-*** 
+ 
 ### Skills
 
 **Software**
